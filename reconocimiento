@@ -2,3 +2,9 @@
 // https://www.youtube.com/watch?v=5zXFoBD-QcA&t=359s
 // gracias a 
 // WINGEANDO _
+
+
+/*
+Se agrega una placa pcb creada para utilizar con radio frecuencia y el módulo de radio, pero en este caso el sketch se hizo para utilizar bluetooth (ble) con una aplicación
+de teléfono como LightBlue
+*/
